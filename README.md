@@ -27,6 +27,9 @@ Advanced Queries
 
 # Project Insight
 Customer and Sales Behavior Analysis: Understand customer distribution, purchasing patterns, and retention trends to improve targeting and engagement strategies.
+
 Sales Performance and Revenue Insights: Analyze total and category-wise sales, monthly trends, and year-over-year growth to track business performance over time.
+
 Product and Seller Performance: Evaluate product popularity, pricing impact on sales, and identify top-performing sellers to optimize inventory and partnerships.
+
 Advanced Business Metrics: Leverage advanced analytics like moving averages, cumulative sales, and customer lifetime value to support data-driven decision-making and business growth.
