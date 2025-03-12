@@ -26,10 +26,10 @@ Advanced Queries
 5. Identify the top 3 customers who spent the most money in each year.
 
 # Project Insight
-Customer and Sales Behavior Analysis: Understand customer distribution, purchasing patterns, and retention trends to improve targeting and engagement strategies.
+1. Customer and Sales Behavior Analysis: Understand customer distribution, purchasing patterns, and retention trends to improve targeting and engagement strategies.
 
-Sales Performance and Revenue Insights: Analyze total and category-wise sales, monthly trends, and year-over-year growth to track business performance over time.
+2. Sales Performance and Revenue Insights: Analyze total and category-wise sales, monthly trends, and year-over-year growth to track business performance over time.
 
-Product and Seller Performance: Evaluate product popularity, pricing impact on sales, and identify top-performing sellers to optimize inventory and partnerships.
+3. Product and Seller Performance: Evaluate product popularity, pricing impact on sales, and identify top-performing sellers to optimize inventory and partnerships.
 
-Advanced Business Metrics: Leverage advanced analytics like moving averages, cumulative sales, and customer lifetime value to support data-driven decision-making and business growth.
+4. Advanced Business Metrics: Leverage advanced analytics like moving averages, cumulative sales, and customer lifetime value to support data-driven decision-making and business growth.
